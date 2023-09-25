@@ -1,6 +1,6 @@
 squad=['Aleksandre Grdzelidze', 'Nozadze Giorgi', 'Ilia Wiklauri', 'Mate Jorbenadze', 'Nika kandelaki', 'Natchkebia Nikolozi', 'Focxoraia Omari ', 'Giorgi Bibilashvili', 'Gurwkaia Giorgi', 'Zazashvili Luka']
 
-len_of_name = len("Alex")
+len_of_name = len("Aleksandre")
 
 squad.pop(len_of_name)
 print(squad)
