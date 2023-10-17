@@ -2,39 +2,103 @@ body {
     background-image: url(desktop-wallpaper-binary-code-green-binary-code.jpg);
 }
 
-body { img src: height: 150 width: 650;;
-
-
-}
-
-p {
-    color: #09c017;
-}
-
 h3 {
     color: #09c017;
 }
 
-i {
-    color: #09c017;
-}
-
-h4 {
-    color: #09c017;
-}
-
-h1 {
-    color: #09c017;
-}
-
-hr {
-    color: black;
-}
-
-p {
-    font-size: large;
-}
 
 a {
     color: #09c017;
+}
+
+.Join_GOA {
+    font-size: 45px;
+    color: #09c017;
+    
+}
+
+.goa_fb {
+    position: absolute;
+    font-size: 35px;
+    color: #09c017;
+}
+
+.youtube_goa {
+    font-size: 35px;
+    color: #09c017;
+}
+
+.gmail {
+    font-size: 35px;
+    color: #09c017;
+}
+
+.study_goa {
+    font-size: 40px;
+    color: #09c017;
+}
+
+.number {
+    font-size: 35px;
+    color: #09c017;
+}
+
+.image_zahesi {
+    height: 430px;
+    width: 600px;
+
+}
+
+.offers {
+    font-size: 25px;
+    color: #09c017;
+}
+
+.customised {
+    font-size: 20px;
+    color: #09c017;
+}
+
+.Heads_on {
+    font-size: 20px;
+    color:#09c017;
+}
+
+.instructions {
+    font-size: 20px;
+    color: #09c017;
+}
+
+.cxovreba {
+    height: 300px;
+    width: 400px;
+}
+
+.matrix {
+    text-align: center;
+    font-size: 25px;
+    color: #09c017;
+}
+
+goa_xalxi {
+    height: 250px;
+    width: 500px;
+}
+
+shesavali {
+    font-size: 15px;
+    color: #09c017;
+}
+
+.first {
+    text-align: center;
+    font-size: 55px;
+    color: #09c017;
+}
+
+.goapic {
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px; 
+    width: 650px;
 }
