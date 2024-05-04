@@ -1,46 +1,54 @@
-body {
+/* body {
     background-image: url(desktop-wallpaper-binary-code-green-binary-code.jpg);
+} */
+/* body {
+    background-color: rgb(14, 64, 21);
+} */
+
+body {
+    background-image: url(goa.gif);
+    size: sm;
 }
 
 h3 {
-    color: #09c017;
+    color: #05a315ba;
 }
 
 
 a {
-    color: #09c017;
+    color: #05a315ba;
 }
 
 .Join_GOA {
     font-size: 45px;
-    color: #09c017;
+    color: #05a315ba;
     
 }
 
 .goa_fb {
     position: absolute;
     font-size: 35px;
-    color: #09c017;
+    color: #05a315ba;
 }
 
 .youtube_goa {
     font-size: 35px;
-    color: #09c017;
+    color: #05a315ba;
 }
 
 .gmail {
     font-size: 35px;
-    color: #09c017;
+    color: #05a315ba;
 }
 
 .study_goa {
-    font-size: 40px;
-    color: #09c017;
+    font-size: 25px;
+    color: #05a315ba;
 }
 
 .number {
     font-size: 35px;
-    color: #09c017;
+    color: #05a315ba;
 }
 
 .image_zahesi {
@@ -50,50 +58,52 @@ a {
 }
 
 .offers {
-    font-size: 25px;
-    color: #09c017;
+    font-size: 20px;
+    color: #05a315ba;
 }
 
 .customised {
     font-size: 20px;
-    color: #09c017;
+    color: #05a315ba;
 }
 
 .Heads_on {
     font-size: 20px;
-    color:#09c017;
+    color:#05a315ba;
 }
 
 .instructions {
-    font-size: 20px;
-    color: #09c017;
+    font-size: 25px;
+    color: #05a315ba;
 }
 
 .cxovreba {
-    height: 300px;
-    width: 400px;
+    height: 350px;
+    width: 500px;
 }
 
 .matrix {
     text-align: center;
-    font-size: 25px;
-    color: #09c017;
+    font-size: 30px;
+    color: #05a315ba;
 }
 
-goa_xalxi {
-    height: 250px;
-    width: 500px;
+.goa_xalxi {
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 550px;
 }
 
-shesavali {
-    font-size: 15px;
-    color: #09c017;
+.shesavali {
+    font-size: 21px;
+    color: #05a315ba;
 }
 
 .first {
     text-align: center;
     font-size: 55px;
-    color: #09c017;
+    color: #05a315ba;
 }
 
 .goapic {
@@ -101,4 +111,8 @@ shesavali {
     margin-right: auto;
     height: 150px; 
     width: 650px;
+}
+
+hr {
+    width: 100%;
 }

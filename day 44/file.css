@@ -1,0 +1,18 @@
+body {
+    font-size: 50px;
+    text-align: center;
+    border: 2px black solid;
+    border-radius: 50px;
+    width: 1000px;
+}
+
+#accept {
+    height: 50px;
+    width: 50px;
+}
+
+#btn {
+    font-size: 50px;
+    border-radius: 25px;
+    padding: 5px;
+}
